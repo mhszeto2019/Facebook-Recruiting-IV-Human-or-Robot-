@@ -1,6 +1,7 @@
 # Facebook-Recruiting-IV-Human-or-Robot-
 
 This is my first attempt in a Kaggle Competition.
+
 Goal of this competition:
 -Gaining experience with large datasets
 -Practise "cleaning"  of data.
